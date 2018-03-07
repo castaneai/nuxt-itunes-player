@@ -1,5 +1,7 @@
 # nuxt-itunes-player
 
+![introduction](./intro.gif)
+
 ## Build Setup
 
 ```bash
